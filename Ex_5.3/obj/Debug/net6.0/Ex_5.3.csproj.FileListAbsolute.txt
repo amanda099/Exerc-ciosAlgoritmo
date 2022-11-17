@@ -1,0 +1,15 @@
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\bin\Debug\net6.0\Ex_5.3.exe
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\bin\Debug\net6.0\Ex_5.3.deps.json
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\bin\Debug\net6.0\Ex_5.3.runtimeconfig.json
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\bin\Debug\net6.0\Ex_5.3.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\bin\Debug\net6.0\Ex_5.3.pdb
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.csproj.AssemblyReference.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.AssemblyInfoInputs.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.AssemblyInfo.cs
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.csproj.CoreCompileInputs.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\refint\Ex_5.3.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.pdb
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\Ex_5.3.genruntimeconfig.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_5.3\obj\Debug\net6.0\ref\Ex_5.3.dll
