@@ -1,0 +1,15 @@
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\bin\Debug\net6.0\Ex_4.4.exe
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\bin\Debug\net6.0\Ex_4.4.deps.json
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\bin\Debug\net6.0\Ex_4.4.runtimeconfig.json
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\bin\Debug\net6.0\Ex_4.4.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\bin\Debug\net6.0\Ex_4.4.pdb
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.csproj.AssemblyReference.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.AssemblyInfoInputs.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.AssemblyInfo.cs
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.csproj.CoreCompileInputs.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\refint\Ex_4.4.dll
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.pdb
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\Ex_4.4.genruntimeconfig.cache
+C:\Users\aaman\Documents\ADS\Algoritmos e Lógica de Programação\Atv_40pts\Ex_4.4\obj\Debug\net6.0\ref\Ex_4.4.dll
